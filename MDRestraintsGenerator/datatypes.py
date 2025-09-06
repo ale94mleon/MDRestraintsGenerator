@@ -33,7 +33,7 @@ import MDAnalysis as mda
 from MDAnalysis.selections import gromacs as mda_gmx
 import numpy as np
 from scipy import stats
-from scipy.stats import circmean, circvar, circstd
+from scipy.stats import circmean, circstd
 from matplotlib import pyplot as plt
 
 
